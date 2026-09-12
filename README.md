@@ -53,7 +53,7 @@ An aspiring Data Analyst passionate about uncovering patterns, cleaning messy da
 ### 💭 Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <img src="https://zenquotes.io/api/image" alt="Random Quote" width="600" />
 </p>
 
 ---
